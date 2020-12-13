@@ -1,0 +1,5 @@
+[org.gnome.desktop.background]
+picture-uri = 'file:///usr/share/backgrounds/Background.jpg'
+
+[org.gnome.shell]
+favorite-apps = ['org.gnome.Terminal.desktop', 'firefox.desktop', 'org.gnome.Nautilus.desktop', 'org.gnome.gedit.desktop']

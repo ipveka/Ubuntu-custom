@@ -1,0 +1,17 @@
+
+# Introduction
+
+### Install configs -------------------------------------
+
+File 90_ubuntu-settings.gschema.override: Move to /usr/share/glib-2.0/schemas/
+FIle Background.jpg: Move to -> /usr/share/backgrounds/
+
+# Compile
+
+glib-compile-schemas /usr/share/glib-2.0/schemas/
+
+### Install apps -------------------------------------
+
+Run Script on the virtual environment terminal on Cubic.
+
+#---
